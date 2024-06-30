@@ -1,0 +1,20 @@
+[
+	{
+		"name": "API Rest with Java Spring Boot",
+		"description": "API Rest for integration of Laser cutting software with a management application",
+		"image": "/assets/images/projects/04.png",
+		"url": "https://www.linkedin.com/posts/fernando-conil-608913185_optimizando-el-corte-l%C3%A1ser-con-mi-nuevo-activity-7204533238277513217-BGWr?utm_source=share&utm_medium=member_desktop"
+	},
+	{
+		"name": "15th Birthday Invitation",
+		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"image": "/assets/images/projects/15th birthday.png",
+		"url": "https://15gio.github.io/micumple/"
+	},
+	{
+		"name": "Wedding Invitation",
+		"description": "Virtual invitation for a wedding.",
+		"image": "/assets/images/projects/wedding.png",
+		"url": "https://emi679.github.io/boda-shei-emi/"
+	}
+]
