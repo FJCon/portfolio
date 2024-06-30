@@ -37,3 +37,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+          pnpm/action-setup@v2 # Replace with the desired version if needed
+        with:
+          version: '6.32.1' # Replace with your preferred pnpm version
