@@ -4,27 +4,35 @@
 		"role": "Mechanical Designer and Application developer",
 		"company": "Tav Ingenieria S.A.",
 		"description": "3D models and drawings using SolidWorks. Development of and application to manage Laser cutted pieces",
-		"logo": "/portfolio/assets/images/experiences/fta.ico"
+		"logo": ""
 	},
 	{
 		"dates": "November 2023 · Febrary 2024",
 		"role": "Electrical Supervisor - Team Leader",
 		"company": "Wasco Isoaf",
 		"description": "Responsible for daily task coordination between teams.",
-		"logo": "/portfolio/assets/images/experiences/yoho.ico"
+		"logo": ""
 	},
 	{
 		"dates": "April 2023 · November 2023",
 		"role": "Mechanical Designer",
 		"company": "Tav Ingenieria S.A.",
 		"description": "3D models and drawings of dairy industry equipments using SolidWorks.",
-		"logo": "/portfolio/assets/images/experiences/fta.ico"
+		"logo": ""
+	},
+	{
+		"dates": "October 2022 · April 2023",
+		"role": "Lifter Operator",
+		"company": "Tav Ingenieria S.A.",
+		"description": "3D models and drawings of dairy industry equipments using SolidWorks.",
+		"logo": ""
 	},
 	{
 		"dates": "Juanary 2018 · April 2020 ",
 		"role": "GammaRay Equipment Operator",
 		"company": "Caefe NDT",
 		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/portfolio/assets/images/experiences/wulian.ico"
+		"logo": ""
 	}
+	
 ]
