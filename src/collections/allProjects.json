@@ -7,19 +7,19 @@
 	},
 	{
 		"name": "15th Birthday Invitation",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"description": "Web with information about a birthday party. Host on Github Pages and developed with React ",
 		"image": "/portfolio/assets/images/projects/15th birthday.png",
 		"url": "https://15gio.github.io/micumple/"
 	},
 	{
 		"name": "Booking application for trips",
-		"description": "Final career project",
+		"description": "Final career project. Created with Spring Boot, React and MySQL",
 		"image": "/portfolio/assets/images/ctd/01.png",
 		"url": "https://github.com/DanielRizzu/IntegradorCTD"
-	},
+	}
 	{
 		"name": "Wedding Invitation",
-		"description": "Virtual invitation for a wedding.",
+		"description": "Virtual invitation for a wedding. Created with HTML, CSS and Vanilla JS",
 		"image": "/portfolio/assets/images/projects/wedding.png",
 		"url": "https://emi679.github.io/boda-shei-emi/"
 	}
