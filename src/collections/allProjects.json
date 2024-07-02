@@ -16,7 +16,7 @@
 		"description": "Final career project. Created with Spring Boot, React and MySQL",
 		"image": "/portfolio/assets/images/ctd/01.png",
 		"url": "https://github.com/DanielRizzu/IntegradorCTD"
-	}
+	},
 	{
 		"name": "Wedding Invitation",
 		"description": "Virtual invitation for a wedding. Created with HTML, CSS and Vanilla JS",
