@@ -22,5 +22,11 @@
 		"description": "Virtual invitation for a wedding. Created with HTML, CSS and Vanilla JS",
 		"image": "/portfolio/assets/images/projects/wedding.png",
 		"url": "https://emi679.github.io/boda-shei-emi/"
+	},
+	{
+		"name": "To Do App",
+		"description": "Project that brings together all the concepts and tools acquired in the Frontend II subject. It is a classic but effective task application",
+		"image": "/portfolio/assets/images/projects/ToDo.png",
+		"url": "https://github.com/FJCon/ToDoApp.git"
 	}
 ]

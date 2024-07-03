@@ -2,10 +2,6 @@
 - Hacer post sobre proyecto final y obtencion de titulo CTD
 - Agregar más info en "about" sobre flexibilidad en nuevos trabajos y sobre idiomas.
 
-- TITULO CTD
-https://www.linkedin.com/feed/update/urn:li:activity:7194349240628740097/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7194349240628740097%29
 
 - PROYECTO FINAL BACK END 1.
 https://www.linkedin.com/posts/fernando-conil-608913185_github-fjconbackend1-proyectofinal-activity-7110588916969185281-5L1B/?utm_source=share&utm_medium=member_desktop
-
--Agregar ToDo App
