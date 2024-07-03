@@ -28,5 +28,13 @@
 		"description": "Project that brings together all the concepts and tools acquired in the Frontend II subject. It is a classic but effective task application",
 		"image": "/portfolio/assets/images/projects/ToDo.png",
 		"url": "https://github.com/FJCon/ToDoApp.git"
+	},
+	{
+		"name": "Mechanical Engineer Online Resume",
+		"description": "Website created with HTML, CSS and Vanilla JS. Hosted in Github Pages",
+		"image": "/portfolio/assets/images/projects/nessier.png",
+		"url": "https://fnessier.github.io/"
 	}
+
+	
 ]

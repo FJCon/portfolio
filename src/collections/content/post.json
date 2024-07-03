@@ -1,23 +1,30 @@
 [
 	{
 		"title": "API Rest for laser cutting management application",
-		"description": "Created with Java Spring Boot to collect information in real time",
+		"description": "Created with Java Spring Boot to collect information in real time.",
 		"dateFormatted": "June 23rd, 2024",
 		"content": "",
 		"link": "/portfolio/post/api-rest-cutting"
 	},
 	{
 		"title": "Simple script to save several time",
-		"description": "Advantages of knowing how to program",
+		"description": "Advantages of knowing how to program.",
 		"dateFormatted": "June 4th, 2024",
 		"content": "",
 		"link": "/portfolio/post/simple-script"
 	},
 	{
 		"title": "My certified tech developer diploma",
-		"description": "Advantages of knowing how to program",
+		"description": "Announcement about my studies.",
 		"dateFormatted": "May 8th, 2024",
 		"content": "",
 		"link": "/portfolio/post/ctd-degree"
+	},
+	{
+		"title": "Final project - Certified Tech Developer",
+		"description": "Announcement about my studies.",
+		"dateFormatted": "May 8th, 2024",
+		"content": "",
+		"link": "/portfolio/post/ctd-final-project"
 	}
 ]

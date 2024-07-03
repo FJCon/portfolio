@@ -1,5 +1,7 @@
 - Usar posts para llevar a el portafolio mis publicaciones de linkedin.
-- Hacer post sobre proyecto final y obtencion de titulo CTD
+
+- Hacer post sobre proyecto final.
+
 - Agregar más info en "about" sobre flexibilidad en nuevos trabajos y sobre idiomas.
 
 
