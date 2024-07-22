@@ -1,6 +1,13 @@
 [
 	{
-		"title": "API Rest for laser cutting management application",
+		"title": "Update July 19th: Frontend for laser cutting tracking",
+		"description": "Creation of simple interfaces to navigate through the applicaction",
+		"dateFormatted": "July 19th, 2024",
+		"content": "",
+		"link": "/portfolio/post/api-rest-cutting-v2"
+	},
+	{
+		"title": "API Rest for laser cutting tracking application",
 		"description": "Created with Java Spring Boot to collect information in real time.",
 		"dateFormatted": "June 23rd, 2024",
 		"content": "",
