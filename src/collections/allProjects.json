@@ -1,7 +1,7 @@
 [
 	{
-		"description": "API Rest for integration of Laser cutting software with a manageme
-		"name": "Web application for laser-cut pieces with Java Spring Boot and React",nt application",
+		"name": "Web application for laser-cut pieces with Java Spring Boot and React",
+		"description": "Application to integrate a laser-cut software with a management application",
 		"image": "/portfolio/assets/images/projects/05.png",
 		"url": "https://www.linkedin.com/posts/fernando-conil-608913185_optimizando-el-corte-l%C3%A1ser-con-mi-nuevo-activity-7204533238277513217-BGWr?utm_source=share&utm_medium=member_desktop"
 	},
