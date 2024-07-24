@@ -7,7 +7,7 @@ dateFormatted: July 19th, 2024
 ![Fronted](/portfolio/assets/images/api-tav/05.png)
 ## Introduction
 
-On the [previous post](http://localhost:4321/portfolio/post/api-rest-cutting) I wrote about an API Rest development using Java with Spring boot Framework which provides information from and SQL Server database created by a laser cutting software.
+On the [previous post](http://fjcon.github.io/portfolio/post/api-rest-cutting) I wrote about an API Rest development using Java with Spring boot Framework which provides information from and SQL Server database created by a laser cutting software.
 
 As you know, I've been working hard on this app for a while, and I'm happy to announce that I now have a considerable portion of the API finished.
 
