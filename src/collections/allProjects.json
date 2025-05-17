@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Website for a metallurgical company",
+		"description": "Developed with Wordpress",
+		"image": "/portfolio/assets/images/tolaba/01.png",
+		"url": "https://metalurgicatolaba.com/"
+	},
+	{
 		"name": "Web application for laser-cut pieces with Java Spring Boot and React",
 		"description": "Application to integrate a laser-cut software with a management application",
 		"image": "/portfolio/assets/images/projects/05.png",

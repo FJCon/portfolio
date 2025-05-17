@@ -1,5 +1,12 @@
 [
 	{
+		"title": "Website for a metallurgical company",
+		"description": "Building a digital identity",
+		"dateFormatted": "May 17th, 2025",
+		"content": "",
+		"link": "/portfolio/post/metalurgica"
+	},
+	{
 		"title": "Update July 19th: Frontend for laser cutting tracking",
 		"description": "Creation of simple interfaces to navigate through the applicaction",
 		"dateFormatted": "July 19th, 2024",
